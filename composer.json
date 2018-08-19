@@ -11,7 +11,7 @@
   ],
   "autoload":{
     "psr-4": {
-      "CL\\Grades\\": "src/Examples"
+      "CL\\Examples\\": "src/Examples"
     }
   },
   "repositories": [
