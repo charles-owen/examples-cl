@@ -1,0 +1,24 @@
+{
+  "name" : "cl/examples",
+  "description": "CourseLib examples project.",
+  "type" : "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Charles B. Owen",
+      "email": "cbowen@msu.edu"
+    }
+  ],
+  "autoload":{
+    "psr-4": {
+      "CL\\Grades\\": "src/Examples"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/charles-owen/examples-cl.git"
+    }
+  ]
+}
+

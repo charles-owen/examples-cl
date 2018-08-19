@@ -1,0 +1,15 @@
+{
+  "name": "examples-cl",
+  "version": "0.0.1",
+  "description": "CourseLib examples project",
+  "main": "js/index.js",
+  "keywords": [
+    "Education", "Frameworks", "CourseLib"
+  ],
+  "author": "Charles B. Owen",
+  "license": "MIT",
+  "dependencies": {
+    "site-cl": "^0.0.1",
+    "users-cl": "^0.0.1"
+  }
+}
