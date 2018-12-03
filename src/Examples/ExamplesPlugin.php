@@ -44,8 +44,6 @@ class ExamplesPlugin extends \CL\Site\Plugin {
 	 */
 	public function __get($property) {
 		switch($property) {
-
-
 			default:
 				return parent::__get($property);
 		}
