@@ -4,12 +4,16 @@
   "description": "CourseLib examples project",
   "main": "js/index.js",
   "keywords": [
-    "Education", "Frameworks", "CourseLib"
+    "Education",
+    "Frameworks",
+    "CourseLib"
   ],
   "author": "Charles B. Owen",
   "license": "MIT",
   "dependencies": {
     "site-cl": "^0.0.1",
-    "users-cl": "^0.0.1"
+    "users-cl": "^0.0.1",
+    "vue": "^2.6.14",
+    "vuex": "^3.6.2"
   }
 }
