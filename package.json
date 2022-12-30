@@ -11,9 +11,10 @@
   "author": "Charles B. Owen",
   "license": "MIT",
   "dependencies": {
+    "@vue/compat": "^3.2.45",
     "site-cl": "^0.0.1",
     "users-cl": "^0.0.1",
-    "vue": "^2.7.9",
-    "vuex": "^3.6.2"
+    "vue": "^3.2.45",
+    "vuex": "^4.1.0"
   }
 }

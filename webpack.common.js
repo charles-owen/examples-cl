@@ -2,6 +2,9 @@ const path = require('path');
 
 module.exports = {
 	entry: {
-		Examples: path.resolve(__dirname, 'index.js')
+		Examples: {
+			import: path.resolve(__dirname, 'index.js'),
+			dependOn: ['Users', 'Site']
+		}
 	}
 }
